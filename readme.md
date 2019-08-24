@@ -1,5 +1,7 @@
 # taller serverless node-week
 
+# https://github.com/camilomontoyau/cm-nodeweek
+
 ## paso0: tener nodejs instalado
 
 ## paso1:
