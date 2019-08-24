@@ -20,6 +20,11 @@ y escribir n, simplemente es para verificar que serverless haya sido creado
 
 `serverless config credentials -o --provider aws --key AKIAWGDFZBUBZG4N25N4 --secret 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`
 
+## paso 3.1
+
+`cat ~/.aws/credentials`
+Para verificar la creación de las credenciales de aws
+
 ## paso 4
 
 `serverless create --template aws-nodejs --name cm-nodeweek --path cm-nodeweek`
